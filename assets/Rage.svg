@@ -1,0 +1,15 @@
+<svg width="174" height="151" viewBox="0 0 174 151" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Property 1=Rage">
+<g id="rage-face">
+<path id="mouth" d="M36.5 149.5C45 135 51 126 66 131.5C77 132.902 79.5 99.0002 124.5 140.5" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="right-eye">
+<path id="eye-right" d="M103.759 14.3988C119.25 16.2413 142.469 9.26811 152.142 5.55123C151.171 19.3665 148.362 47.4983 144.901 49.5036C129.959 56.5885 111.247 29.0525 103.759 14.3988Z" fill="white" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path id="bullet-right" d="M133 32.5001C133 34.9854 130.985 37.0001 128.5 37.0001C126.015 37.0001 124 34.9854 124 32.5001C124 30.0148 126.015 28.0001 128.5 28.0001C130.985 28.0001 133 30.0148 133 32.5001Z" fill="black"/>
+</g>
+<g id="left-eye">
+<path id="eye-left" d="M63 17.0001C47.4 17.0001 25.1667 7.33346 16 2.50012C15.3333 16.3335 14.8 44.6001 18 47.0001C32 55.8001 53.8333 30.6668 63 17.0001Z" fill="white" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path id="bullet-left" d="M30 32.0001C30 34.7615 27.7614 37.0001 25 37.0001C22.2386 37.0001 20 34.7615 20 32.0001C20 29.2387 22.2386 27.0001 25 27.0001C27.7614 27.0001 30 29.2387 30 32.0001Z" fill="black"/>
+</g>
+</g>
+</g>
+</svg>

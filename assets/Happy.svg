@@ -1,0 +1,7 @@
+<svg width="169" height="148" viewBox="0 0 169 148" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="mouth" d="M21.5 116C46.8333 134.833 105.1 164.2 135.5 131" stroke="black" stroke-width="3" stroke-linecap="round"  stroke-linejoin="round"/>
+<path id="left-eye" d="M51 29C51 44.5695 39.7072 57 26 57C12.2928 57 1 44.5695 1 29C1 13.4305 12.2928 1 26 1C39.7072 1 51 13.4305 51 29Z" fill="white" stroke="black" stroke-width="2"/>
+<path id="left-eye-dot"  d="M30 27C30 29.7614 27.7614 32 25 32C22.2386 32 20 29.7614 20 27C20 24.2386 22.2386 22 25 22C27.7614 22 30 24.2386 30 27Z" fill="black"/>
+<path id="right-eye" d="M168 29C168 44.5695 156.707 57 143 57C129.293 57 118 44.5695 118 29C118 13.4305 129.293 1 143 1C156.707 1 168 13.4305 168 29Z" fill="white" stroke="black" stroke-width="2"/>
+<path id="right-eye-dot" d="M147 27C147 29.7614 144.761 32 142 32C139.239 32 137 29.7614 137 27C137 24.2386 139.239 22 142 22C144.761 22 147 24.2386 147 27Z" fill="black"/>
+</svg>

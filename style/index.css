@@ -1,0 +1,52 @@
+@import url(component/title.css);
+@import url(component/range.css);
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    align-items: center;
+    background-color: #feeebd;
+    transition: ease 0.3s;
+    height: 100vh;
+    justify-items: center;
+
+    text-rendering: auto;
+    text-rendering: optimizeSpeed;
+    text-rendering: optimizeLegibility;
+    text-rendering: geometricPrecision;
+
+    overflow: hidden;
+}
+
+div {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    margin-top: 2rem;
+}
+
+img {
+    height: 200px;
+}
+
+.cuberto {
+    position: absolute;
+    right: 30px;
+    bottom: 15px;
+    text-align: right;
+    font-size: 1.8rem;
+    text-decoration: none;
+    color: #000;
+}
+
+.cuberto i {
+    font-size: 1rem;
+}

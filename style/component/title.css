@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Sk-Modernist;
+    src: url(../fonts/Sk-Modernist-Bold.woff);
+}
+
+body {
+    font-family: Sk-Modernist, sans-serif;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+}
+
+.text h1 {
+    font-size: 2.5rem;
+    font-family: Sk-Modernist, sans-serif;
+}
+
+.text p {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 40px 0;
+    font-size: 2rem;
+    font-weight: 400;
+}
