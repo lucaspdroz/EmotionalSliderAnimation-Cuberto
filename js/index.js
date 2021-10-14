@@ -1,7 +1,7 @@
 const objImages = {
-    rage: "../assets/Rage.svg",
-    ok: "../assets/Ok.svg",
-    happy: "../assets/Happy.svg",
+    rage: "assets/Rage.svg",
+    ok: "assets/Ok.svg",
+    happy: "assets/Happy.svg",
 }
 
 const DomObjects = {
